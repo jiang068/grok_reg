@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtualenvs
+venv/
+.venv/
+env/
+env.bak/
+venv.bak/
+.Python
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.nox/
+.tox/
+.mypy_cache/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Data / generated outputs (ignore runtime CSV keys, DBs, caches)
+data/
+
+# Environment / secrets
+.env
