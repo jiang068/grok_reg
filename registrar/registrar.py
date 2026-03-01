@@ -1,8 +1,5 @@
-"""Registrar implementation moved into grok_reg.registrar package.
+# Registrar implementation moved into grok_reg.registrar package.
 
-Mostly a lightly-adapted copy of the original `grok_reg_old/registrar.py` with
-relative imports adjusted to the new package layout.
-"""
 import os
 import csv
 import time
